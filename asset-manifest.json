@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Abdulkhamidov-770/online-book-shelf/static/css/main.54bf3ea6.css",
-    "main.js": "/Abdulkhamidov-770/online-book-shelf/static/js/main.6f1ba142.js",
+    "main.js": "/Abdulkhamidov-770/online-book-shelf/static/js/main.22e804c5.js",
     "static/media/back_shelf.jpg": "/Abdulkhamidov-770/online-book-shelf/static/media/back_shelf.e8b9572916815a229e9c.jpg",
     "index.html": "/Abdulkhamidov-770/online-book-shelf/index.html",
     "main.54bf3ea6.css.map": "/Abdulkhamidov-770/online-book-shelf/static/css/main.54bf3ea6.css.map",
-    "main.6f1ba142.js.map": "/Abdulkhamidov-770/online-book-shelf/static/js/main.6f1ba142.js.map"
+    "main.22e804c5.js.map": "/Abdulkhamidov-770/online-book-shelf/static/js/main.22e804c5.js.map"
   },
   "entrypoints": [
     "static/css/main.54bf3ea6.css",
-    "static/js/main.6f1ba142.js"
+    "static/js/main.22e804c5.js"
   ]
 }
