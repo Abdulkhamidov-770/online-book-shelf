@@ -36,7 +36,7 @@ function App() {
       ) : (
         <SignUp />
       )}
-      <HashApp/>
+      {/* <HashApp/> */}
     </div>
   );
 }
