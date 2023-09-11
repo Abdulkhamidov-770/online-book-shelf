@@ -1,0 +1,5 @@
+export const SET_SIGN_UP= 'SET_SIGN_UP'
+export const SET_EDIT_BOOK= 'SET_EDIT_BOOK'
+export const SET_ALL_BOOKS= 'GET_ALL_BOOKS'
+export const SET_CREATE_BOOK= 'SET_CREATE_BOOK'
+export const SET_DELETE_BOOK= 'SET_DELETE_BOOK'
